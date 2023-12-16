@@ -73,4 +73,4 @@ total 4
 -rwxr-xr-x 1 root root 750 Dec 16 16:26 index.html
 ```
 
-Закройте окно командой `exit`.
+&#9745; Закройте окно командой `exit`.
