@@ -4,3 +4,4 @@
 
 - [lab01](./asweb01/)
 - [lab02](./asweb02/)
+- [lab03](./asweb02/lab03.solution.md)
